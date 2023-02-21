@@ -1,7 +1,7 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Anas BADR EDDINE</h1>
 <h3 align="center">A passionate software enginner from Morocco</h3>
-<img align="center" alt="i'm coding" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="500" ">
+<img align="right" alt="i'm coding" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="300" ">
                                                                                                                                     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbadreddine&label=Profile%20views&color=0e75b6&style=flat" alt="anasbadreddine" /> </p>
